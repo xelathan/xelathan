@@ -2,7 +2,7 @@
 
 ![Animated](https://global.discourse-cdn.com/wanikanicommunity/original/4X/1/9/d/19d85e6c6d92de680aacd2863897b23f1b2c5143.gif)
 
-## ✋🙂‍↕️ About Me
+## ✋🙂‍↕ About Me
 
 📱 Mobile App Developer with a specialization in security and IoT systems
 
