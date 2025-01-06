@@ -4,15 +4,15 @@
 
 ## ✋🙂‍↕ About Me
 
-📱 Mobile App Developer with a specialization in security and IoT systems
+📱 Mobile App Developer and Data Engineer with a specialization in security and IoT systems
 
 🎓 Pursuing a B.S. at UC Davis and soon to be starting a M.S. in Computer Science at San Jose State University
 
-🌱 Currently diving into SwiftUI framework, golang for API development, Mobile Networking, and Artificial Intelligence
+🌱 Currently diving into Go for API development, Cloud Services, and ETL/ELT pipeline development
 
-⚽️ In my free time I like to play football and build keyboards
+⚽️ In my free time I like to play football and build mechanical keyboards
 
-💬 Feel free to reach out to me for any mobile app development or backend development volunteering or consulting gigs
+💬 Feel free to reach out to me for any mobile app development, data engineering, backend development, volunteering or consulting gigs
 
 📝 Here is my [Resume](https://www.dropbox.com/scl/fi/5jmy6c99a7mk8l3sdxb3w/resume_ms.pdf?rlkey=fscgt1tlficihf8vpono3msah&st=0tr5ht2j&dl=0) for reference
 
