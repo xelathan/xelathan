@@ -14,7 +14,7 @@
 
 💬 Feel free to reach out to me for any mobile app development, data engineering, backend development, volunteering or consulting gigs
 
-📝 Here is my [Resume](https://www.dropbox.com/scl/fi/5jmy6c99a7mk8l3sdxb3w/resume_ms.pdf?rlkey=fscgt1tlficihf8vpono3msah&st=0tr5ht2j&dl=0) for reference
+📝 Here is my [Resume](https://www.dropbox.com/scl/fi/qhsl34b7tvq9puq2r73hh/resume.pdf?rlkey=4u3pvdqlzeypia1p6g3qk9rvt&st=713rv3xf&dl=0) for reference
 
 ## 🛠️ Technical Skills
 
