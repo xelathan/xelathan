@@ -4,7 +4,7 @@
 
 ## ✋🙂‍↕ About Me
 
-📱 Mobile App Developer and Data Engineer with a specialization in security and IoT systems
+📱 Software Engineer with a specialization in Data Infrastructure and Full Stack Development
 
 🎓 Pursuing a B.S. at UC Davis and soon to be starting a M.S. in Computer Science at San Jose State University
 
