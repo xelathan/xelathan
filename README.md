@@ -6,13 +6,13 @@
 
 📱 Software Engineer with a specialization in Data Infrastructure and Full Stack Development
 
-🎓 Pursuing a B.S. at UC Davis and soon to be starting a M.S. in Computer Science at San Jose State University
+🎓 Pursuing a B.S. at UC Davis and soon to be starting a M.S. in Computer Engineering at San Jose State University
 
 🌱 Currently diving into Go for API development, Cloud Services, and ETL/ELT pipeline development
 
 ⚽️ In my free time I like to play football and build mechanical keyboards
 
-💬 Feel free to reach out to me for any mobile app development, data engineering, backend development, volunteering or consulting gigs
+💬 Feel free to reach out to me for any full stack development, data engineering, volunteering or consulting gigs
 
 📝 Here is my [Resume](https://www.dropbox.com/scl/fi/qhsl34b7tvq9puq2r73hh/resume.pdf?rlkey=4u3pvdqlzeypia1p6g3qk9rvt&st=713rv3xf&dl=0) for reference
 
