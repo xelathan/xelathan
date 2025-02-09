@@ -14,7 +14,7 @@
 
 💬 Feel free to reach out to me for any full stack development, data engineering, volunteering or consulting gigs
 
-📝 Here is my [Resume](https://www.dropbox.com/scl/fi/qhsl34b7tvq9puq2r73hh/resume.pdf?rlkey=4u3pvdqlzeypia1p6g3qk9rvt&st=713rv3xf&dl=0) for reference
+📝 Here is my [Resume](https://www.dropbox.com/scl/fi/r9yp34qi1dijorkamqr8p/alex_tran_resume.pdf?rlkey=wt29ce46sbyovtl0cskxt8lxg&st=c6m100y0&dl=0) for reference
 
 ## 🛠️ Technical Skills
 
