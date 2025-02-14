@@ -6,15 +6,15 @@
 
 📱 Software Engineer with a specialization in Data Infrastructure and Full Stack Development
 
-🎓 Pursuing a B.S. at UC Davis and soon to be starting a M.S. in Computer Engineering at San Jose State University
+🎓 Pursuing a B.S. at UC Davis and graduating in March 2025
 
-🌱 Currently diving into Go for API development, Cloud Services, and ETL/ELT pipeline development
+🌱 Currently diving into Cloud Services, and Data Infrastructure development
 
 ⚽️ In my free time I like to play football and build mechanical keyboards
 
 💬 Feel free to reach out to me for any full stack development, data engineering, volunteering or consulting gigs
 
-📝 Here is my [Resume](https://www.dropbox.com/scl/fi/r9yp34qi1dijorkamqr8p/alex_tran_resume.pdf?rlkey=wt29ce46sbyovtl0cskxt8lxg&st=c6m100y0&dl=0) for reference
+📝 Here is my [Resume](https://www.dropbox.com/scl/fi/y8hs9wylg3xjf16ruqzkk/alex_tran_resume_.pdf?rlkey=c5kt74z36h4rmjyiwhquk11am&st=wbirfblj&dl=0) for reference
 
 ## 🛠️ Technical Skills
 
