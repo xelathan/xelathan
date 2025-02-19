@@ -4,7 +4,7 @@
 
 ## ✋🙂‍↕ About Me
 
-📱 Software Engineer with a specialization in Data Infrastructure and Full Stack Development
+📱 Software Engineer with a specialization in Data Engineering & Infrastructure and Full Stack Development
 
 🎓 Pursuing a B.S. at UC Davis and graduating in March 2025
 
