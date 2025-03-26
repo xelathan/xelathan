@@ -4,15 +4,15 @@
 
 ## ✋🙂‍↕ About Me
 
-📱 Software Engineer with a specialization in Data Engineering & Infrastructure and Full Stack Development
+📱 Software Engineer with a specialization in Optimization
 
-🎓 Pursuing a M.S. at SJSU
+🎓 Pursuing a M.S. at SJSU in Computer Engineering
 
-🌱 Currently diving into Cloud Services, and Data Infrastructure development
+🌱 Currently diving into Database Optimization and 3D CAD Optimization.
 
 ⚽️ In my free time I like to play football and build mechanical keyboards
 
-💬 Feel free to reach out to me for any full stack development, data engineering, volunteering or consulting gigs
+💬 Feel free to reach out to me for any software engineering, volunteering or consulting gigs
 
 ## 🛠️ Technical Skills
 
