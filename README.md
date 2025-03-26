@@ -6,15 +6,13 @@
 
 📱 Software Engineer with a specialization in Data Engineering & Infrastructure and Full Stack Development
 
-🎓 Pursuing a B.S. at UC Davis and graduating in March 2025
+🎓 Pursuing a M.S. at SJSU
 
 🌱 Currently diving into Cloud Services, and Data Infrastructure development
 
 ⚽️ In my free time I like to play football and build mechanical keyboards
 
 💬 Feel free to reach out to me for any full stack development, data engineering, volunteering or consulting gigs
-
-📝 Here is my [Resume](https://www.dropbox.com/scl/fi/y8hs9wylg3xjf16ruqzkk/alex_tran_resume_.pdf?rlkey=c5kt74z36h4rmjyiwhquk11am&st=wbirfblj&dl=0) for reference
 
 ## 🛠️ Technical Skills
 
