@@ -17,14 +17,13 @@
 ### Languages
 
 ![Swift](https://img.shields.io/badge/Swift-informational?style=flat&logo=swift&logoColor=white&color=5D3FD3)
-![Kotlin](https://img.shields.io/badge/Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=5D3FD3)
 ![Dart](https://img.shields.io/badge/Dart-informational?style=flat&logo=dart&logoColor=white&color=5D3FD3)
 ![Go](https://img.shields.io/badge/Go-informational?style=flat&logo=go&logoColor=white&color=5D3FD3)
 ![Java](https://img.shields.io/badge/Java-informational?style=flat&logo=CoffeeScript&logoColor=white&color=5D3FD3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=5D3FD3)
 ![TypeScript](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=5D3FD3)
 ![Python](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=5D3FD3)
-![Rust](https://img.shields.io/badge/Rust-informational?style=flat&logo=rust&logoColor=white&color=5D3FD3)
+![C++](https://img.shields.io/badge/C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=00599C)
 
 ### Frameworks & Libraries
 
