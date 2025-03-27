@@ -27,7 +27,7 @@
 
 ### Frameworks & Libraries
 
-![Qt](https://img.shields.io/badge/Qt-informational?style=flat&logo=qt&logoColor=white&color=5D3FD3)
+![Qt](https://img.shields.io/badge/Qt-informational?style=flat&logo=qt&logoColor=white&color=6F4E37)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-informational?style=flat&logo=apple&logoColor=white&color=6F4E37)
 ![Flutter](https://img.shields.io/badge/Flutter-informational?style=flat&logo=flutter&logoColor=white&color=6F4E37)
 ![React.js](https://img.shields.io/badge/React.js-informational?style=flat&logo=react&logoColor=white&color=6F4E37)
