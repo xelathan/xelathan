@@ -23,7 +23,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=5D3FD3)
 ![TypeScript](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=5D3FD3)
 ![Python](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=5D3FD3)
-![C++](https://img.shields.io/badge/C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=00599C)
+![C++](https://img.shields.io/badge/C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=5D3FD3)
 
 ### Frameworks & Libraries
 
