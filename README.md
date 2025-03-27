@@ -75,7 +75,7 @@
 ## 🖥️ Featured Projects
 
 ![Top Repos](https://github-readme-stats.vercel.app/api/pin/?username=xelathan&repo=FreeCAD)
-![Top Repos](https://github-readme-stats.vercel.app/api/pin/?username=xelathan&repo=cockroachDB)
+![Top Repos](https://github-readme-stats.vercel.app/api/pin/?username=xelathan&repo=cockroach)
 
 ## 🎧 Now Playing
 
