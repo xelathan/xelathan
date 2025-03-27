@@ -74,8 +74,8 @@
 
 ## 🖥️ Featured Projects
 
-![Top Repos](https://github-readme-stats.vercel.app/api/pin/?username=xelathan&repo=nlp_political_scraper)
-![Top Repos](https://github-readme-stats.vercel.app/api/pin/?username=xelathan&repo=Custom_Pong)
+![Top Repos](https://github-readme-stats.vercel.app/api/pin/?username=xelathan&repo=FreeCAD)
+![Top Repos](https://github-readme-stats.vercel.app/api/pin/?username=xelathan&repo=cockroachDB)
 
 ## 🎧 Now Playing
 
