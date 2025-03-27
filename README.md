@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&height=30&lines=Hello+there%2C+I'm+Alex.%20🤫🧏)](https://git.io/typing-svg)
 
-![Animated](https://global.discourse-cdn.com/wanikanicommunity/original/4X/1/9/d/19d85e6c6d92de680aacd2863897b23f1b2c5143.gif)
-
 ## ✋🙂‍↕ About Me
 
 📱 Software Engineer with a specialization in Optimization
