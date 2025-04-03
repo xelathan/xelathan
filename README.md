@@ -6,7 +6,7 @@
 
 🎓 Pursuing a M.S. at SJSU in Computer Engineering
 
-🌱 Currently diving into Database Optimization and 3D CAD Optimization.
+🌱 Currently diving into CAD parametic modeling software.
 
 ⚽️ In my free time I like to play football and build mechanical keyboards
 
@@ -20,7 +20,6 @@
 ![Swift](https://img.shields.io/badge/Swift-informational?style=flat&logo=swift&logoColor=white&color=5D3FD3)
 ![Dart](https://img.shields.io/badge/Dart-informational?style=flat&logo=dart&logoColor=white&color=5D3FD3)
 ![Go](https://img.shields.io/badge/Go-informational?style=flat&logo=go&logoColor=white&color=5D3FD3)
-![Java](https://img.shields.io/badge/Java-informational?style=flat&logo=CoffeeScript&logoColor=white&color=5D3FD3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=5D3FD3)
 ![TypeScript](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=5D3FD3)
 ![Python](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=5D3FD3)
@@ -28,11 +27,9 @@
 ### Frameworks & Libraries
 
 ![Qt](https://img.shields.io/badge/Qt-informational?style=flat&logo=qt&logoColor=white&color=6F4E37)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-informational?style=flat&logo=apple&logoColor=white&color=6F4E37)
 ![Flutter](https://img.shields.io/badge/Flutter-informational?style=flat&logo=flutter&logoColor=white&color=6F4E37)
 ![React.js](https://img.shields.io/badge/React.js-informational?style=flat&logo=react&logoColor=white&color=6F4E37)
 ![Node.js](https://img.shields.io/badge/Node.js-informational?style=flat&logo=nodedotjs&logoColor=white&color=6F4E37)
-![GraphQL](https://img.shields.io/badge/GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=6F4E37)
 ![Flask](https://img.shields.io/badge/Flask-informational?style=flat&logo=flask&logoColor=white&color=6F4E37)
 ![Pandas](https://img.shields.io/badge/Pandas-informational?style=flat&logo=pandas&logoColor=white&color=6F4E37)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-informational?style=flat&logo=scikitlearn&logoColor=white&color=6F4E37)
@@ -48,7 +45,6 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=EE4B2B)
 ![MongoDB](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=EE4B2B)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=EE4B2B)
-![Kafka](https://img.shields.io/badge/Kafka-informational?style=flat&logo=apachekafka&logoColor=white&color=EE4B2B)
 ![Spark](https://img.shields.io/badge/Spark-informational?style=flat&logo=apachespark&logoColor=white&color=EE4B2B)
 ![Jira](https://img.shields.io/badge/Jira-informational?style=flat&logo=jira&logoColor=white&color=EE4B2B)
 ![Confluence](https://img.shields.io/badge/Confluence-informational?style=flat&logo=confluence&logoColor=white&color=EE4B2B)
