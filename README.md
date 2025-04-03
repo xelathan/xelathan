@@ -17,12 +17,11 @@
 ### Languages
 
 ![C++](https://img.shields.io/badge/C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=5D3FD3)
-![Swift](https://img.shields.io/badge/Swift-informational?style=flat&logo=swift&logoColor=white&color=5D3FD3)
+![Python](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=5D3FD3)
 ![Dart](https://img.shields.io/badge/Dart-informational?style=flat&logo=dart&logoColor=white&color=5D3FD3)
 ![Go](https://img.shields.io/badge/Go-informational?style=flat&logo=go&logoColor=white&color=5D3FD3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=5D3FD3)
 ![TypeScript](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=5D3FD3)
-![Python](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=5D3FD3)
 
 ### Frameworks & Libraries
 
@@ -37,8 +36,6 @@
 
 ### Tools & Technologies
 
-![Xcode](https://img.shields.io/badge/Xcode-informational?style=flat&logo=xcode&logoColor=white&color=EE4B2B)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-informational?style=flat&logo=androidstudio&logoColor=white&color=EE4B2B)
 ![AWS](https://img.shields.io/badge/AWS-informational?style=flat&logo=amazonwebservices&logoColor=white&color=EE4B2B)
 ![GCP](https://img.shields.io/badge/GCP-informational?style=flat&logo=googlecloud&logoColor=white&color=EE4B2B)
 ![Docker](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=EE4B2B)
