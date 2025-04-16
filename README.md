@@ -2,7 +2,7 @@
 
 ## ✋🙂‍↕ About Me
 
-📱 Software Engineer with a specialization in IoT systems and CAD simulation.
+📱 Engineer with a specialization in IoT systems and CAD simulation.
 
 🎓 Pursuing a M.S. at SJSU in Computer Engineering
 
