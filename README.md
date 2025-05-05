@@ -4,6 +4,4 @@ Engineer with a specialization in IoT systems and CAD simulation
 
 Pursuing an M.S. at SJSU in Computer Engineering with a specialization in embedded systems
 
-Currently diving into parametric simulation software
-
 In my free time I like to play football and build mechanical keyboards
