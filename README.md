@@ -2,8 +2,11 @@
 
 1+ YOE Engineer with a specialization in IoT systems
 
-B.S. in Computer Science and pursuing an M.S. in Computer Engineering with a specialization in embedded/operating systems
+B.S. in Computer Science
+
+Pursing a part time M.S. in Computer Engineering with a specialization in embedded/operating systems
 
 In my free time I like to play football, watch F1, and build mechanical keyboards
+
 
 
